@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on python, Machine Learning, Deep Learning,Django and C++.
 - 🌱 I’m currently learning DevOps.
 - 🤔 I’m looking for help with Competitive Programming.
-- 💬 Ask me about python, ML and DL.
+- 💬 Ask me about python, ML, DL and NLP.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/01anuraganand/)
 
 
