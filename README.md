@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about python, ML, DL and NLP.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/01anuraganand/)
 
+<div>
 
+<span> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=01anuraganand&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=01anuraganand&theme=flag-india&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01anuraganand&layout=compact)</span>
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01anuraganand&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
