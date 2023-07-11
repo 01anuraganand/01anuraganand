@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01anuraganand&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=01anuraganand)
