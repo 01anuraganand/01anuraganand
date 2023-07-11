@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <span> [![GitHub Streak](https://streak-stats.demolab.com?user=01anuraganand)](https://git.io/streak-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01anuraganand&layout=compact)</span>
 <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01anuraganand&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01anuraganand&show_icons=true)](https://github.com/01anuraganand/)
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=01anuraganand)
