@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Competitive Programming.
 - 💬 Ask me about python, ML, DL and NLP.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/01anuraganand/)
-- 🫣 Personal Website: [My Website](https://portfolio-anurag-anand.vercel.app/)
+- 🫣 Website: [My Website](https://nextaisense.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01anuraganand&label=Profile%20views&color=0e75b6&style=flat" alt="01anuraganand" /> </p>
 
 <div>
