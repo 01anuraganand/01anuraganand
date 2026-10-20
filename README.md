@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://nextaisense.com/services"><img src="https://img.shields.io/badge/Services-nextaisense.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Services" /></a>
+  <a href="https://agency.nextaisense.com/services"><img src="https://img.shields.io/badge/Services-NextAISense Agency-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Services" /></a>
   <a href="https://nextaisense.com"><img src="https://img.shields.io/badge/Company-NextAISense-000000?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Company" /></a>
   <a href="https://www.linkedin.com/in/01anuraganand/"><img src="https://img.shields.io/badge/LinkedIn-01anuraganand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anurag@nextaisense.com"><img src="https://img.shields.io/badge/Email-anurag%40nextaisense.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -17,7 +17,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Robotics%20%7C%20Cloud%20TBMS%20%7C%20GenAI%20%26%20Agents-blueviolet?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Robotics%20%7C%20Management%20Software%20%7C%20GenAI%20%26%20Agents-blueviolet?style=flat-square" alt="Focus" />
 </p>
 
 </div>
