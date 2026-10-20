@@ -64,7 +64,7 @@ My day-to-day engineering spans:
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       </p>
       <p>
-        👉 <a href="https://nextaisense.com/services"><b>Explore Robotics & Simulation Services ➔</b></a>
+        👉 <a href="https://nextaisense.com/"><b>Explore Robotics & Simulation Services ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -92,7 +92,7 @@ My day-to-day engineering spans:
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <p>
-        👉 <a href="https://nextaisense.com/services"><b>Explore Enterprise & Cloud Services ➔</b></a>
+        👉 <a href="https://agency.nextaisense.com/services"><b>Explore Enterprise & Cloud Services ➔</b></a>
       </p>
     </td>
   </tr>
@@ -212,8 +212,8 @@ My day-to-day engineering spans:
     <td width="50%" valign="top">
       <h4>🏢 Ventures & Services</h4>
       <ul>
-        <li>🚀 <b><a href="https://nextaisense.com/services">NextAISense Agency Services</a></b>: Enterprise AI solutions, custom multi-tenant architectures, and engineering consulting.</li>
-        <li>🌐 <b><a href="https://nextaisense.com">NextAISense Tech Private Limited</a></b>: Official venture site for our robotics & AI innovation studio.</li>
+        <li>🚀 <b><a href="https://agency.nextaisense.com/">NextAISense Agency Services</a></b>: Enterprise AI solutions, custom multi-tenant architectures, and engineering consulting.</li>
+        <li>🌐 <b><a href="https://nextaisense.com/">NextAISense Tech Private Limited</a></b>: Official venture site for our robotics & AI innovation studio.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -258,7 +258,7 @@ Feel free to reach out if you want to collaborate on robotics, multi-tenant clou
 
 - 💼 **LinkedIn**: [linkedin.com/in/01anuraganand](https://www.linkedin.com/in/01anuraganand/)
 - 🌐 **Company Website**: [nextaisense.com](https://nextaisense.com)
-- 🚀 **Services**: [nextaisense.com/services](https://nextaisense.com/services)
+- 🚀 **Services**: [nextaisense.com/services](https://agency.nextaisense.com/)
 - ✉️ **Email**: [anurag@nextaisense.com](mailto:anurag@nextaisense.com)
 - 🐙 **GitHub Profile**: [@01anuraganand](https://github.com/01anuraganand)
 
