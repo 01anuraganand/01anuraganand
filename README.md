@@ -100,7 +100,7 @@ My day-to-day engineering spans:
 
 ---
 
-### 🛠️ Technical Arsenal & Tech Stack Images
+### 🛠️ Technical Arsenal & Tech Stack
 
 <table width="100%">
   <tr>
@@ -194,10 +194,14 @@ My day-to-day engineering spans:
         <img src="https://img.shields.io/badge/LlamaIndex-9333EA?style=flat-square&logo=semanticweb&logoColor=white" alt="LlamaIndex" />
         <img src="https://img.shields.io/badge/n8n_Agents-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
         <br/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <br/>
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/MATLAB-0076CE?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
       </p>
     </td>
   </tr>
